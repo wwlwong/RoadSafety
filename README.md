@@ -1,7 +1,29 @@
 # RoadSafety
 This project attempts to classify the severity of injury (None, Minimal/Minor, Major, or Fatal) using data from all traffic 
-collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020. RandomForest Classification was 
-chosen for the model. 
+collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020. 
+
+A series of native multiclass classifiers were evaluated by accuracy score applying the training dataset in a 3 fold cross validation.
+The models evaluated included:<br>
+Decision Tree<br>
+KNN<br>
+RandomForest<br>
+SVM<br>
+SGD<br>
+AdaBoost<br>
+LogisticRegression(Multinomial)<br>
+Naive Bayes<br>
+VotingClass<br>
+
+From the evaluation, RandomForest Classification was chosen and the following hyperparameters were tuned.
+n_estimators<br> 
+max_features<br> 
+max_depth<br> 
+min_samples_split<br> 
+min_samples_leaf<br>
+max_leaf_nodes<br>
+max_samples<br>
+
+
 
 The Dataset was last updated on May 1, 2021 
 Dataset can be downloaded from the Toronto Police Services Website for Total Killed or Seriously Injured (KSI) Collisions 
@@ -56,7 +78,7 @@ TRUCK         Truck Driver Involved in Collision<br>
 TRSN_CITY_VEH Transit or City Vehicle Involved in Collision<br>
 EMERG_VEH     Emergency Vehicle Involved in Collision<br>
 PASSENGER     Passenger Involved in Collision<br>
-SPEEDING      Speeding Related Collision   <br>   
+SPEEDING      Speeding Related Collision<br>   
 AG_DRIV       Aggressive and Distracted Driving Collision<br>
 REDLIGHT      Red Light Related Collision<br>
 ALCOHOL       Alcohol Related Collision<br>
