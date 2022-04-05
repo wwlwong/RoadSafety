@@ -81,7 +81,7 @@ The dataset includes 54 features and 16,860 records
 |Y             |Longitude<br>|
 
 Some of the features in the dataset were overlapping (ie. geographical, vehicle involved) and some features were missing significant 
-amount of entries thus were dropped.
+amount of entries thus were dropped. The dataset was split into 70/30 for train/test set.
 
 A series of native multiclass classifiers were evaluated by accuracy score applying the training dataset in a 3 fold cross validation.
 The models evaluated included:<br>
