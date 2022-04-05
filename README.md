@@ -9,7 +9,7 @@ https://data.torontopolice.on.ca/datasets/TorontoPS::ksi/about
 
 The dataset includes 54 features and 16,860 records
 
-Name	         Description\	
+Name	         Description<br>
 INDEX         Unique Identifier
 ACCNUM        Accident Number
 YEAR          Year Collision Occurred
