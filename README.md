@@ -10,60 +10,60 @@ https://data.torontopolice.on.ca/datasets/TorontoPS::ksi/about
 The dataset includes 54 features and 16,860 records
 
 Name	         Description<br>
-INDEX         Unique Identifier
-ACCNUM        Accident Number
-YEAR          Year Collision Occurred
-DATE          Date Collision Occurred
-TIME          Time Collision Occurred
-HOUR          Hour Collision Occurred
-STREET1       Street Collision Occurred
-STREET2       Street Collision Occurred
-OFFSET        Distance and direction of the Collision
-ROAD_CLASS    Road Classification
-DISTRICT      City District
-WARDNUM       Ward Number
-DIVISION      Division Number
-LATITUDE      Latitude
-LONGITUDE     Longitude
-LOCCOORD      Location Coordinate
-ACCLOC        Collision Location
-TRAFFCTL      Traffic Control Type
-VISIBILITY    Environment Condition
-LIGHT         Light Condition
-RDSFCOND      Road Surface Condition
-ACCLASS       Classification of Accident
-IMPACTYPE     Initial Impact Type
-INVTYPE       Involvement Type
-INVAGE        Age of Involved Party
-INJURY        Severity of Injury
-FATAL_NO      Sequential Number
-INITDIR       Initial Direction of Travel
-VEHTYPE       Type of Vehicle
-MANOEUVER     Vehicle Manouever
-DRIVACT       Apparent Driver Action
-DRIVCOND      Driver Condition
-PEDTYPE       Pedestrian Crash Type - detail
-PEDACT        Pedestrian Action
-PEDCOND       Condition of Pedestrian
-CYCLISTYPE    Cyclist Crash Type - detail
-CYCACT        Cyclist Action
-CYCCOND       Cyclist Condition
-PEDESTRIAN    Pedestrian Involved In Collision
-CYCLIST       Cyclists Involved in Collision
-AUTOMOBILE    Driver Involved in Collision
-MOTORCYCLE    Motorcyclist Involved in Collision
-TRUCK         Truck Driver Involved in Collision
-TRSN_CITY_VEH Transit or City Vehicle Involved in Collision
-EMERG_VEH     Emergency Vehicle Involved in Collision
-PASSENGER     Passenger Involved in Collision
-SPEEDING      Speeding Related Collision      
-AG_DRIV       Aggressive and Distracted Driving Collision
-REDLIGHT      Red Light Related Collision
-ALCOHOL       Alcohol Related Collision
-DISABILITY    Medical or Physical Disability Related Collision  
-POLICE DIVISION Police Division
-HOOD_ID       Neighbourhood Identifier  
-NEIGHBOURHOOD Neighbourhood Name  
-FID           Object ID (Unique Identifier)
-X             Latitude
+INDEX         Unique Identifier<br>
+ACCNUM        Accident Number<br>
+YEAR          Year Collision Occurred<br>
+DATE          Date Collision Occurred<br>
+TIME          Time Collision Occurred<br>
+HOUR          Hour Collision Occurred<br>
+STREET1       Street Collision Occurred<br>
+STREET2       Street Collision Occurred<br>
+OFFSET        Distance and direction of the Collision<br>
+ROAD_CLASS    Road Classification<br>
+DISTRICT      City District<br>
+WARDNUM       Ward Number<br>
+DIVISION      Division Number<br>
+LATITUDE      Latitude<br>
+LONGITUDE     Longitude<br>
+LOCCOORD      Location Coordinate<br>
+ACCLOC        Collision Location<br>
+TRAFFCTL      Traffic Control Type<br>
+VISIBILITY    Environment Condition<br>
+LIGHT         Light Condition<br>
+RDSFCOND      Road Surface Condition<br>
+ACCLASS       Classification of Accident<br>
+IMPACTYPE     Initial Impact Type<br>
+INVTYPE       Involvement Type<br>
+INVAGE        Age of Involved Party<br>
+INJURY        Severity of Injury<br>
+FATAL_NO      Sequential Number<br>
+INITDIR       Initial Direction of Travel<br>
+VEHTYPE       Type of Vehicle<br>
+MANOEUVER     Vehicle Manouever<br>
+DRIVACT       Apparent Driver Action<br>
+DRIVCOND      Driver Condition<br>
+PEDTYPE       Pedestrian Crash Type - detail<br>
+PEDACT        Pedestrian Action<br>
+PEDCOND       Condition of Pedestrian<br>
+CYCLISTYPE    Cyclist Crash Type - detail<br>
+CYCACT        Cyclist Action<br>
+CYCCOND       Cyclist Condition<br>
+PEDESTRIAN    Pedestrian Involved In Collision<br>
+CYCLIST       Cyclists Involved in Collision<br>
+AUTOMOBILE    Driver Involved in Collision<br>
+MOTORCYCLE    Motorcyclist Involved in Collision<br>
+TRUCK         Truck Driver Involved in Collision<br>
+TRSN_CITY_VEH Transit or City Vehicle Involved in Collision<br>
+EMERG_VEH     Emergency Vehicle Involved in Collision<br>
+PASSENGER     Passenger Involved in Collision<br>
+SPEEDING      Speeding Related Collision   <br>   
+AG_DRIV       Aggressive and Distracted Driving Collision<br>
+REDLIGHT      Red Light Related Collision<br>
+ALCOHOL       Alcohol Related Collision<br>
+DISABILITY    Medical or Physical Disability Related Collision<br>  
+POLICE DIVISION Police Division<br>
+HOOD_ID       Neighbourhood Identifier<br>  
+NEIGHBOURHOOD Neighbourhood Name<br>  
+FID           Object ID (Unique Identifier)<br>
+X             Latitude<br>
 Y             Longitude
