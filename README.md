@@ -6,8 +6,13 @@ Nafe McNafee<br>
 Ketan Khanna<br>
 William Wong<br>
 
+Problem:<br>
+In the past 10 years, the number of fatilities caused by traffic collision ranges between 34 - 78 per year. 
+
 This project attempts to classify the severity of injury (None, Minimal/Minor, Major, or Fatal) using data from all traffic 
-collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020. 
+collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020. In doing so, patterns from 
+road conditions and behaviour could be identified to develop traffic control policies as well as infrastructure design for 
+city neighbourhoods.
 
 The Dataset was last updated on May 1, 2021 
 Dataset can be downloaded from the Toronto Police Services Website for Total Killed or Seriously Injured (KSI) Collisions 
